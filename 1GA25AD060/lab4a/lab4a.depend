@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790843941 source:c:\users\student.desktop-tvp5msu.000\desktop\1ga25ad060\lab4a\main.c
+
+1790843881 source:c:\users\student.desktop-tvp5msu.000\desktop\1ga25ad060\lab4a\lab4a.c
+	<stdio.h>
+	<stdlib.h>
+
